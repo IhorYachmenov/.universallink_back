@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "44SRGL5WQZ.url.scheme",
-      "paths": ["/universallink_back/*"]
+      "paths": ["*"]
     }
     ]
   }
